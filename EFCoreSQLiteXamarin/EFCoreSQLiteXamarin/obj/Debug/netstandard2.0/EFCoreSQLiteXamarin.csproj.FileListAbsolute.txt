@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\bin\Debug\netstandard2.0\EFCoreSQLiteXamarin.deps.json
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\bin\Debug\netstandard2.0\EFCoreSQLiteXamarin.dll
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\bin\Debug\netstandard2.0\ref\EFCoreSQLiteXamarin.dll
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\bin\Debug\netstandard2.0\EFCoreSQLiteXamarin.pdb
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\EFCoreSQLiteXamarin.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\Views\AlbumesPage.xaml.g.cs
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\Views\AlbumPage.xaml.g.cs
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\EFCoreSQLiteXamarin.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\EFCoreSQLiteXamarin.AssemblyInfo.cs
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\EFCoreSQLiteXamarin.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\EFCoreSQLiteXamarin.dll
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\ref\EFCoreSQLiteXamarin.dll
+C:\Users\anton\source\repos\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\EFCoreSQLiteXamarin\obj\Debug\netstandard2.0\EFCoreSQLiteXamarin.pdb
